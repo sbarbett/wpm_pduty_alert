@@ -1,4 +1,4 @@
-wpm\_pduty_\_alert
+wpm\_pduty\_alert
 ======================
 
 This repository contains advance alerting scripts for Vercara's UltraWPM service that use the [PagerDuty interface](http://docs.ultrawpm.com/alertpolicy-api/d0/d6e/interfacebiz_1_1neustar_1_1webmetrics_1_1alerting_1_1script_1_1api_1_1_pager_duty.html) from the [Alerting API](http://docs.ultrawpm.com/alertpolicy-api/annotated.html) to trigger a PagerDuty event.
